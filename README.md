@@ -1,6 +1,6 @@
 # ScrabblePointsCalculator
 
-##Application Developed for Advanced Object Oriented programing Class
+### Application Developed for Advanced Object Oriented programing Class
 
-## Using IntelliJ IDEA enviroment and JavaFX
+### Using IntelliJ IDEA enviroment and JavaFX
 
